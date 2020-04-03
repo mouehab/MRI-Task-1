@@ -58,7 +58,7 @@ def data_gen(mode, angle):
         elif(mode == Modes.precession):
             yield magVector1[0], magVector1[1]
             t = t+10
-        else: print("errorrrr")           
+        else: print("error")
 
 def init():
     ax.set_ylim(-2.0,2.0)
