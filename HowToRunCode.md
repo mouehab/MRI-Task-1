@@ -35,5 +35,5 @@
 		* ## Run "MagneticField.py" file from (Magnetic Field) folder:
 		![Zero Position](Screenshots/TerminalMagneticField.png)
     		
-		* ## you will get result like this:
+		* ## you will get a saved photo in the name of "NonUniform" in your Directory:
 		![Zero Position](Screenshots/NonUniform.png)
