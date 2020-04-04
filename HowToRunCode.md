@@ -10,7 +10,7 @@
 			* ### Passing 2 more arguments: 
 				- 1)Name of one of the 3 modes.
 				- 2)Flip angle Value. 
-		![Zero Position](TerminalMRI.png)
+		![Zero Position](Screenshots/TerminalMRI.png)
     	* ## you will get one of those three results:
 		* ### Precession:
 		![Zero Position](Precession.png)
