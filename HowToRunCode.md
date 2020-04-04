@@ -24,12 +24,14 @@
 			* ### Passing one more argument: -Path of the Image.
 		![Zero Position](Screenshots/TerminalFourier.png)
    
-    		* ## you will get result like this:
+    		
+		* ## you will get result like this:
 		![Zero Position](Screenshots/ImageFourier.png)
 
 
    * ## To run The function that shows the non-Uniformity of the magnetic field:
 		* ## Run "MagneticField.py" file from (Magnetic Field) folder:
 		![Zero Position](Screenshots/TerminalMagneticField.png)
-    		* ## you will get result like this:
+    		
+		* ## you will get result like this:
 		![Zero Position](Screenshots/NonUniform.png)
