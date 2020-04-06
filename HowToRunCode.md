@@ -10,26 +10,30 @@
 			* ### Passing 2 more arguments: 
 				- 1)Name of one of the 3 modes.
 				- 2)Flip angle Value. 
-		![Zero Position](TerminalMRI.png)
-    	* ## you will get one of those three results:
+		
+		![Zero Position](Screenshots/TerminalMRI.png)
+    	
+	* ## you will get one of those three results:
 		* ### Precession:
-		![Zero Position](Precession.png)
+		![Zero Position](Screenshots/Precession.png)
 		* ### Decay:
-		![Zero Position](Decay.png)
+		![Zero Position](Screenshots/Decay.png)
 		* ### Recovery:
-		![Zero Position](Recovery.png)
+		![Zero Position](Screenshots/Recovery.png)
 
    * ## To run The fourier transform function on an image:
 		* ## Run "Images.py" file
 			* ### Passing one more argument: -Path of the Image.
-		![Zero Position](TerminalFourier.png)
+		![Zero Position](Screenshots/TerminalFourier.png)
    
-    		* ## you will get result like this:
-		![Zero Position](ImageFourier.png)
+    		
+		* ## you will get result like this:
+		![Zero Position](Screenshots/ImageFourier.png)
 
 
    * ## To run The function that shows the non-Uniformity of the magnetic field:
 		* ## Run "MagneticField.py" file from (Magnetic Field) folder:
-		![Zero Position](TerminalMagneticField.png)
-    		* ## you will get result like this:
-		![Zero Position](NonUniform.png)
+		![Zero Position](Screenshots/TerminalMagneticField.png)
+    		
+		* ## you will get a saved photo in the name of "NonUniform" in your Directory:
+		![Zero Position](Screenshots/NonUniform.png)
